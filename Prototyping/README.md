@@ -44,7 +44,7 @@ J’ai utilisé l’Omnifixo pour maintenir la carte à plat afin d’éviter le
 
 #### Difficultés rencontrées
 
-- Une première rangée de pins soudée de travers, que j’ai trop tenté de corriger avant d’abandonner (difficile de souder une fois tous les pins soudés, je n'ai pas pensé a l'air chaud a ce moment la).
+- Une première rangée de pins soudée de travers, que j’ai trop tenté de corriger avant d’abandonner (difficile de desouder une fois tous les pins soudés, je n'ai pas pensé a l'air chaud a ce moment la).
 - Méthode améliorée : tenir les pins droits à la main pour les extrémités avant de souder le reste.
 - Sur la carte suivante : insérer tous les headers d’un coup avant de souder pour les maintenir tous droits et souder uniquement les extremités avant de verifier et continuer.
 
