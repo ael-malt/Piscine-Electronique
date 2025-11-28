@@ -584,6 +584,7 @@
 						)
 					)
 				)
+				(alternate "test" bidirectional line)
 			)
 		)
 		(embedded_fonts no)
