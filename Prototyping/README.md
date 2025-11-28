@@ -50,7 +50,8 @@ J’ai utilisé l’Omnifixo pour maintenir la carte à plat afin d’éviter le
 
 #### Tests
 
-- Leds verte et rouge que j'avais soudé dans le mauvais ordre par mégarde avant de verifier dans quel ordre elles devaient vraiment aller!
+- LEDs verte et rouge que j'avais commencé a souder dans le mauvais ordre par mégarde avant de verifier dans quel ordre elles devaient vraiment aller, heureusement j'avais seulement soudé uen patte sur deux de chaque LED c'etait pas trop dificile a rectifier!
+- J'ai testé rapidement en connectant le 5V et le GND a une board arduino, mais je n'ai pas poussé mes tests plus loin par manque de temps pour passer rapidement a la board finale.
 
 ---
 
